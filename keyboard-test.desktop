@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=bash ./keyboard-test.sh
+Comment[en_US]=Myanmar Keyboard Tester
+Name=Keyboard Tester
+Icon=preferences-desktop-keyboard-shortcuts

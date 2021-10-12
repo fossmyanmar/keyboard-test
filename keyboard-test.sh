@@ -48,7 +48,9 @@ menu_welcome="$(zenity  --width 300 --height 300 --list --radiolist  --column "C
         FALSE "Mon" \
 	FALSE "Mon A1" \
 	FALSE "Shan" \
-	FALSE "Shan Zagyi-Tai" \
+	FALSE "Shan Zawgyi-Tai" \
+	FALSE "Burmese" \
+	FALSE "Burmese Zawgyi" \
        	FALSE "Restore" \
 	FALSE "Exit" \
 	--title="Keyboard Tester" --text="Please Select Menu")"
